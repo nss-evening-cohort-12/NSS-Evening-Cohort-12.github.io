@@ -34,12 +34,12 @@ blockquote {
 
 #cohort22 {
   display: inline-block;
-  color: #238193;
+  color: #0077b3;
 }
 
 #jumbheader {
   box-shadow: 2px 2px 2px rgb(167, 166, 166);
-  background-color: #238193 !important;
+  background-color: #0077b3 !important;
   color: lightgray;
 }
 .header-text {
@@ -147,7 +147,7 @@ main {
 }
 
 .contactIcons {
-  color: #238193;
+  color: #0077b3;
 }
 .contactIcons:hover {
   transform: scale(1.2);
@@ -155,7 +155,7 @@ main {
 
 .modal-header {
   background-color: lightgray !important;
-  color: #238193;
+  color: #0077b3;
 }
 
 .modal-body img {
@@ -172,7 +172,7 @@ main {
 .navbar.navbar-light.bg-light.footer {
   margin-top: 10px;
   font-size: 1em;
-  background-color: #238193 !important;
+  background-color: #0077b3 !important;
   color: white;
 }
 
@@ -181,20 +181,20 @@ main {
 }
 
 #demo-date a {
-  color: #238193 !important;
+  color: #0077b3 !important;
 }
 
 button {
   cursor: pointer;
 }
 .btn-outline-primary {
-  color: #238193 !important;
-  border-color: #238193 !important;
+  color: #0077b3 !important;
+  border-color: #0077b3 !important;
 }
 
 .btn-outline-primary:hover {
   color: white !important;
-  background-color: #238193 !important;
+  background-color: #0077b3 !important;
 }
 
 /* adjusts size of contact icons depending on size of card */
