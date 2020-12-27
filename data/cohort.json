@@ -4,13 +4,14 @@
             "id": 3,
             "firstName": "Brooke",
             "lastName": "Nemchak",
-            "reelThemIn": "test",
-            "bio": "test",
+            "reelThemIn": "You can waste your lives drawing lines. Or you can live your life crossing them.",
+            "bio": "Barista turned Hospitality Manager turned Professional Sports Ticket Salesperson turned Trade Support Professional turned Full Stack Web Developer. No more turns please, I'm dizzy.",
             "github": "https://github.com/bnemchak",
             "linkedIn": "https://www.linkedin.com/in/brooke-nemchak/",
             "portfolio": "http://www.bowty.tech",
             "email": "bnemchak@gmail.com",
-            "proImg": "BrookeNemchak.jpg"
+            "proImg": "BrookeNemchak.jpg",
+            "funImg": "BrookeNemchakFun.jpg"
         }
     ]
 }
