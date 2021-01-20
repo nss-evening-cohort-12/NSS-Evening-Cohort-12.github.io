@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/jeanine-beckle/",
             "portfolio": "",
             "email": "jeaninebeckle@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jeanine.jpg",
+            "funImg": "JeanineFun.jpg"
         }, 
         {
             "id": 2,
@@ -23,12 +23,12 @@
             "linkedIn": "https://www.linkedin.com/in/ryanbeiden/",
             "portfolio": "",
             "email": "rdbeiden@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Ryan.jpg",
+            "funImg": "RyanFun.jpg"
         },
         {
             "id": 3,
-            "firstName": "Jim",
+            "firstName": "Jamal",
             "lastName": "Browning",
             "reelThemIn": "I should tell Brooke what to write here.",
             "bio": "Here too",
@@ -36,8 +36,8 @@
             "linkedIn": "https://www.linkedin.com/in/jamalbrowning/",
             "portfolio": "",
             "email": "jamalebrowning@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jamal.jpg",
+            "funImg": "JamalFun.jpg"
         },
         {
             "id": 4,
@@ -49,8 +49,8 @@
             "linkedIn": "https://www.linkedin.com/in/wcampbell91/",
             "portfolio": "",
             "email": "wcampbell91@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "William.jpg",
+            "funImg": "WilliamFun.jpg"
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "linkedIn": "https://www.linkedin.com/in/the-michael-dotson/",
             "portfolio": "",
             "email": "thedotson@icloud.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Michael.jpg",
+            "funImg": "MichaelFun.jpg"
         },
         {
             "id": 6,
@@ -75,8 +75,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "gaikwadrnikhil@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Nikhil.jpg",
+            "funImg": "NikhilFun.jpg"
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "linkedIn": "https://www.linkedin.com/in/kamiran-ibrahim/",
             "portfolio": "",
             "email": "kamiran.ibrahim@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Kamiran.jpg",
+            "funImg": "KamiranFun.jpg"
         },
         {
             "id": 8,
@@ -127,8 +127,8 @@
             "linkedIn": "https://www.linkedin.com/in/joshuamedlen/",
             "portfolio": "",
             "email": "joshua246@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Josh.jpg",
+            "funImg": "JoshFun.jpg"
         },
         {
             "id": 11,
@@ -138,7 +138,6 @@
             "bio": "Barista turned Hospitality Manager turned Professional Sports Ticket Salesperson turned Trade Support Professional turned Full Stack Web Developer. No more turns please, I'm dizzy.",
             "github": "https://github.com/bnemchak",
             "linkedIn": "https://www.linkedin.com/in/brooke-nemchak/",
-            "portfolio": "",
             "email": "brooke.nemchak@gmail.com",
             "proImg": "BrookeNemchak.jpg",
             "funImg": "BrookeNemchakFun.jpg"
@@ -196,19 +195,6 @@
             "funImg": "PHFun.jpeg"
         },
         {
-            "id": 16,
-            "firstName": "Pete",
-            "lastName": "Stewart",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
-            "github": "https://github.com/petestewart72",
-            "linkedIn": "https://www.linkedin.com/in/peteastewart/",
-            "portfolio": "",
-            "email": "petestew@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
-        },
-        {
             "id": 17,
             "firstName": "Jeremiah",
             "lastName": "Vasquez",
@@ -218,8 +204,8 @@
             "linkedIn": "https://www.linkedin.com/in/jeremiah-vasquez/",
             "portfolio": "",
             "email": "jeremiah.vasquez93@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jeremiah.jpg",
+            "funImg": "JeremiahFun.jpg"
         },
         {
             "id": 18,
@@ -231,21 +217,21 @@
             "linkedIn": "https://www.linkedin.com/in/nswalters/",
             "portfolio": "",
             "email": "nswalters.s@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Nick.jpg",
+            "funImg": "NickFun.jpg"
         },
         {
             "id": 19,
             "firstName": "Mark",
             "lastName": "Young",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "If you click my profile you will never receive a notification about your car's extended warranty plan again.",
+            "bio": "I graduated from James Madison University magna cum laude as a double major in Psychology and Anthropology with a concentration in Behavior Analysis. There I conducted ethnographic observations in Ireland, Kenya, Pakistan, and India on child-parent practices and customs. Over the years I've watched the internet connect people from ever growing distances. I needed to learn the language of programming to be apart of this connecting technology. Future goals include integrating coding knowledge to create healthcare apps and healthcare CRMs. Currently I work as an outpatient admissions coordinator for a nation-wide network fo dual-diagnosis treatment centers helping individuals with overlaying addictions and underlying mental health issues find therapeutic resources.",
             "github": "https://github.com/MarkyAaronYoung",
             "linkedIn": "https://www.linkedin.com/in/markyaaronyoung/",
             "portfolio": "",
             "email": "markyaaronyoung@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Mark.jpg",
+            "funImg": "MarkFun.jpg"
         }
     ]
 }
