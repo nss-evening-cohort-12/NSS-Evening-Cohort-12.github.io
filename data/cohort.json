@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/jeanine-beckle/",
             "portfolio": "https://jeaninebeckle.com/",
             "email": "jeaninebeckle@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jeanine.jpg",
+            "funImg": "JeanineFun.jpg"
         }, 
         {
             "id": 2,
@@ -23,12 +23,12 @@
             "linkedIn": "https://www.linkedin.com/in/ryanbeiden/",
             "portfolio": "https://ryanbeiden.com/",
             "email": "rdbeiden@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Ryan.jpg",
+            "funImg": "RyanFun.jpg"
         },
         {
             "id": 3,
-            "firstName": "Jim",
+            "firstName": "Jamal",
             "lastName": "Browning",
             "reelThemIn": "Create a life that feels good on the inside, not just looks good on the outside.",
             "bio": "Army Soldier turned Residential Development Project Manager turned Software Engineer. Using technology everyday, I never actually sat down and thought about what makes it possible for me to actually use what is in my hands. As soon as I started learning how to code there was an instant connection. I may be new to development, but I am persistent in growing my knowledge at the fastest pace I can. <br> I hope my skills as a leader, my experience working with small and large teams, my awareness of how important communication is, and my personality can bring value to any person or team I come across.",
@@ -36,21 +36,21 @@
             "linkedIn": "https://www.linkedin.com/in/jamalbrowning/",
             "portfolio": "https://personal-website-454da.web.app/",
             "email": "jamalebrowning@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jamal.jpg",
+            "funImg": "JamalFun.jpg"
         },
         {
             "id": 4,
             "firstName": "William J",
             "lastName": "Campbell",
-            "reelThemIn": "I believe that you should always work hard always find ways to have fun while you're doing it!",
+            "reelThemIn": "I believe that you should always work hard and always find ways to have fun while you're doing it!",
             "bio": "When I moved to Nashville from Akron, OH in 2015, all I wanted was to work in the music industry as a live sound engineer. I've spent the last 5 or so years doing just that, and while it was an incredibly valuable experience that I will never regret, I came to realize that the lifestyle wasn't for me. The long nights, the constant touring, the erratic schedule etc... It did however teach me great problem solving skills and honed my ability to think on my feet in stressful situations, which is useful in any field. When I heard about NSS and web development I was convinced that the skills I learned in my career in live sound could really benefit me in the tech field. I realized that I could have a much more structured and normal job while using all of the skills I enjoy as well as the ability to have the life outside of work that was so often denied by tour dates and night work. Thus began my journey into tech and web development!",
             "github": "https://github.com/wcampbell91",
             "linkedIn": "https://www.linkedin.com/in/wcampbell91/",
             "portfolio": "",
             "email": "wcampbell91@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "William.jpg",
+            "funImg": "WilliamFun.jpg"
         },
         {
             "id": 5,
@@ -62,8 +62,8 @@
             "linkedIn": "https://www.linkedin.com/in/the-michael-dotson/",
             "portfolio": "https://personal-bio-site-d3d59.web.app/",
             "email": "thedotson@icloud.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Michael.jpg",
+            "funImg": "MichaelFun.jpg"
         },
         {
             "id": 6,
@@ -75,8 +75,8 @@
             "linkedIn": "https://www.linkedin.com/in/nikhil-gaikwad-18478317/",
             "portfolio": "https://nikhil-personal-bio-react.firebaseapp.com/",
             "email": "gaikwadrnikhil@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Nikhil.jpg",
+            "funImg": "NikhilFun.jpg"
         },
         {
             "id": 7,
@@ -88,8 +88,8 @@
             "linkedIn": "https://www.linkedin.com/in/kamiran-ibrahim/",
             "portfolio": "https://personal-bio-site-cc160.web.app/",
             "email": "kamiran.ibrahim@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Kamiran.jpg",
+            "funImg": "KamiranFun.jpg"
         },
         {
             "id": 8,
@@ -127,8 +127,8 @@
             "linkedIn": "https://www.linkedin.com/in/joshuamedlen/",
             "portfolio": "https://react-bio-site.web.app/home",
             "email": "joshua246@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Josh.jpg",
+            "funImg": "JoshFun.jpg"
         },
         {
             "id": 11,
@@ -138,7 +138,6 @@
             "bio": "Barista turned Hospitality Manager turned Professional Sports Ticket Salesperson turned Trade Support Professional turned Full Stack Web Developer. No more turns please, I'm dizzy.",
             "github": "https://github.com/bnemchak",
             "linkedIn": "https://www.linkedin.com/in/brooke-nemchak/",
-            "portfolio": "",
             "email": "brooke.nemchak@gmail.com",
             "proImg": "BrookeNemchak.jpg",
             "funImg": "BrookeNemchakFun.jpg"
@@ -205,8 +204,8 @@
             "linkedIn": "https://www.linkedin.com/in/jeremiah-vasquez/",
             "portfolio": "http://jv-personal-site.web.app/",
             "email": "jeremiah.vasquez93@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jeremiah.jpg",
+            "funImg": "JeremiahFun.jpg"
         },
         {
             "id": 17,
@@ -218,8 +217,8 @@
             "linkedIn": "https://www.linkedin.com/in/nswalters/",
             "portfolio": "https://nwalters-portfolio.web.app/",
             "email": "nswalters.s@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Nick.jpg",
+            "funImg": "NickFun.jpg"
         },
         {
             "id": 18,
@@ -231,8 +230,8 @@
             "linkedIn": "https://www.linkedin.com/in/markyaaronyoung/",
             "portfolio": "https://personal-bio-site-84733.web.app/",
             "email": "markyaaronyoung@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Mark.jpg",
+            "funImg": "MarkFun.jpg"
         }
     ]
 }
