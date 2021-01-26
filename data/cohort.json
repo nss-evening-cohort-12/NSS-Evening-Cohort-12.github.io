@@ -41,7 +41,7 @@
         },
         {
             "id": 4,
-            "firstName": "William J",
+            "firstName": "William J.",
             "lastName": "Campbell",
             "reelThemIn": "I believe that you should always work hard and always find ways to have fun while you're doing it!",
             "bio": "When I moved to Nashville from Akron, OH in 2015, all I wanted was to work in the music industry as a live sound engineer. I've spent the last 5 or so years doing just that, and while it was an incredibly valuable experience that I will never regret, I came to realize that the lifestyle wasn't for me. The long nights, the constant touring, the erratic schedule etc... It did however teach me great problem solving skills and honed my ability to think on my feet in stressful situations, which is useful in any field. When I heard about NSS and web development I was convinced that the skills I learned in my career in live sound could really benefit me in the tech field. I realized that I could have a much more structured and normal job while using all of the skills I enjoy as well as the ability to have the life outside of work that was so often denied by tour dates and night work. Thus began my journey into tech and web development!",
@@ -80,7 +80,7 @@
         },
         {
             "id": 7,
-            "firstName": "Kamiran I",
+            "firstName": "Kamiran I.",
             "lastName": "Ibrahim",
             "reelThemIn": "People curious to know you or recruiter or same common",
             "bio": "What I do: SOFTWARE DEVELOPMENT ENGINEER To Building Innovative Enterprise Applications That Support Productivity Gains!<br><br>About me: Since I was a child I had a passion for technology. The first computer I had was Sinclair ZX81. That's where I started my journey on technology and my passion to learn more. When I was 13 the first programming language I did was BASIC.",
@@ -159,11 +159,11 @@
             "id": 13,
             "firstName": "Nathaniel",
             "lastName": "Owens",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "Click it or ticket.",
+            "bio": "Indiana born, Illinois raised, New Hampshire educated, Vegas engaged, Nashville transplant.",
             "github": "https://github.com/nathanieltylerowens",
             "linkedIn": "https://www.linkedin.com/in/nathanieltylerowens/",
-            "portfolio": "",
+            "portfolio": "nowens.dev",
             "email": "nathanieltylerowens@gmail.com",
             "proImg": "PH.png",
             "funImg": "PHFun.jpeg"
