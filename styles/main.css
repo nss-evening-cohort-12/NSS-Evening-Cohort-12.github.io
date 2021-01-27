@@ -65,7 +65,7 @@ blockquote {
 .jumbotron.jumbotron-fluid img {
   background: none;
   width: 100%;
-  margin-top: -80px;
+  margin-top: 35px;
 }
 
 main {
@@ -104,6 +104,11 @@ main {
   border: none;
   border-radius: none;
   box-shadow: none;
+}
+
+.group-pic img{
+  object-fit: cover;
+  object-position: center;
 }
 
 .technos,

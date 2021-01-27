@@ -41,7 +41,7 @@
         },
         {
             "id": 4,
-            "firstName": "William J",
+            "firstName": "William J.",
             "lastName": "Campbell",
             "reelThemIn": "I believe that you should always work hard and always find ways to have fun while you're doing it!",
             "bio": "When I moved to Nashville from Akron, OH in 2015, all I wanted was to work in the music industry as a live sound engineer. I've spent the last 5 or so years doing just that, and while it was an incredibly valuable experience that I will never regret, I came to realize that the lifestyle wasn't for me. The long nights, the constant touring, the erratic schedule etc... It did however teach me great problem solving skills and honed my ability to think on my feet in stressful situations, which is useful in any field. When I heard about NSS and web development I was convinced that the skills I learned in my career in live sound could really benefit me in the tech field. I realized that I could have a much more structured and normal job while using all of the skills I enjoy as well as the ability to have the life outside of work that was so often denied by tour dates and night work. Thus began my journey into tech and web development!",
@@ -80,7 +80,7 @@
         },
         {
             "id": 7,
-            "firstName": "Kamiran I",
+            "firstName": "Kamiran I.",
             "lastName": "Ibrahim",
             "reelThemIn": "People curious to know you or recruiter or same common",
             "bio": "What I do: SOFTWARE DEVELOPMENT ENGINEER To Building Innovative Enterprise Applications That Support Productivity Gains!<br><br>About me: Since I was a child I had a passion for technology. The first computer I had was Sinclair ZX81. That's where I started my journey on technology and my passion to learn more. When I was 13 the first programming language I did was BASIC.",
@@ -108,14 +108,14 @@
             "id": 9,
             "firstName": "Geno",
             "lastName": "McNew",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "What technology can I play with today?",
+            "bio": "Ever since writing programs in BASIC on my Comodore64 in elementary school, I've been interested in technology and how things work. The last few years I've been blessed to work for a company that's nurtured my desire to code, allowing me to write a number of programs for them. I've found that almost anything I do can be improved by some sort of automation or program. As technology progresses, there's always new ways to do this and there's always new technology to play with. This has led me to Nashville Software School and my desire to make coding my lifestyle.",
             "github": "https://github.com/spotmonk",
-            "linkedIn": "https://www.linkedin.com/in/genemcnew/",
-            "portfolio": "",
-            "email": "genemcnew3@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "linkedIn": "https://www.linkedin.com/in/genomcnew/",
+            "portfolio": "www.genomcnew.com",
+            "email": "genomcnew@gmail.com",
+            "proImg": "Geno.jpg",
+            "funImg": "Geno.jpg"
         },
         {
             "id": 10,
@@ -152,34 +152,34 @@
             "linkedIn": "https://www.linkedin.com/in/olamide-oladinni-04b484125/",
             "portfolio": "",
             "email": "olajide1987@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Ola.jpg",
+            "funImg": "OlaFun.jpg"
         },
         {
             "id": 13,
             "firstName": "Nathaniel",
             "lastName": "Owens",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "Click it or ticket.",
+            "bio": "Indiana born, Illinois raised, New Hampshire educated, Vegas engaged, Nashville transplant.",
             "github": "https://github.com/nathanieltylerowens",
             "linkedIn": "https://www.linkedin.com/in/nathanieltylerowens/",
-            "portfolio": "",
+            "portfolio": "nowens.dev",
             "email": "nathanieltylerowens@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Nate.png",
+            "funImg": "NateFun.png"
         },
         {
             "id": 14,
             "firstName": "Jonathan",
             "lastName": "Shearon",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "In order to understand recursion, one must first understand recursion.",
+            "bio": "I’ve been a small business entrepreneur for most of my working life, and always enjoyed the challenges it presents. Finding creative ways to please my customers, managing teams from all walks of life and bringing it all together to create a successful business is one of the most rewarding things I’ve ever done. When I took a few months to learn how to code and write a custom CRM for my business, I was instantly in love. Software development is the language of creative problem solving I’d been searching for all along. Now I’m ready to forge a new career as a developer and leverage my business experience with my newly acquired skills.<br><br>In my spare time, I love playing classical guitar, composing music for orchestra, photography and spending time with my family. ",
             "github": "https://github.com/jshearon",
             "linkedIn": "https://www.linkedin.com/in/jonathanshearon/",
-            "portfolio": "",
+            "portfolio": "https://jshearon.com",
             "email": "jonathan.shearon@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Jonathan.jpg",
+            "funImg": "JonathanFun.jpg"
         },
         {
             "id": 15,
