@@ -95,14 +95,14 @@
             "id": 8,
             "firstName": "Matt",
             "lastName": "Logan",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "“I am ready to face any challenge that might be foolish enough to face me.“ - Dwight Schrute",
+            "bio": "A unicorn! Born and raised in Nashville, I am an aspiring full-stack developer. I have thoroughly enjoyed my time at Nashville Software School. The creative aspect of coding, using logic to solve problems, and working on teams with my peers has been amazing! I look forward to taking everything I have learned to the workforce. ",
             "github": "https://github.com/MLogan1998",
             "linkedIn": "https://www.linkedin.com/in/mlogan5212/",
-            "portfolio": "",
+            "portfolio": "https://logandevelopment.io",
             "email": "mlogan5212@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Matt.jpg",
+            "funImg": "MattFun.jpg"
         },
         {
             "id": 9,
@@ -134,23 +134,23 @@
             "id": 11,
             "firstName": "Brooke",
             "lastName": "Nemchak",
-            "reelThemIn": "You can waste your lives drawing lines. Or you can live your life crossing them.",
-            "bio": "Barista turned Hospitality Manager turned Professional Sports Ticket Salesperson turned Trade Support Professional turned Full Stack Web Developer. No more turns please, I'm dizzy.",
+            "reelThemIn": "“Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.”",
+            "bio": "After spending five years trying to climb the ladder working in Professional and Collegiate Sports, I fell in love with coding. Growing up in Small Town Northern Michigan I never would have guessed life would lead me to become a Dev in Nashville, but I sure am glad it did!",
             "github": "https://github.com/bnemchak",
             "linkedIn": "https://www.linkedin.com/in/brooke-nemchak/",
             "email": "brooke.nemchak@gmail.com",
             "proImg": "BrookeNemchak.jpg",
-            "funImg": "BrookeNemchakFun.jpg"
+            "funImg": "BrookeFun.jpg"
         },
         {
             "id": 12,
-            "firstName": "Ola",
+            "firstName": "Olamide",
             "lastName": "Oladinni",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "If you hire me ill show you how to grow a beard just like mine!",
+            "bio": "I am a software developer. I have a background in Adult Education and corporate training. Continuing education is a constant factor in my line of work. These same parallels I see frequently in coding. It is a challenge I've learned to embrace. I also have a great passion for music and history. Software development excites me about the potential things I can build. The potential to create something that can have a lasting effect on the world. Coding is creating the world we live in today I just want to do my part.",
             "github": "https://github.com/olamide87",
             "linkedIn": "https://www.linkedin.com/in/olamide-oladinni-04b484125/",
-            "portfolio": "",
+            "portfolio": "https://bio-site-18e55.web.app/",
             "email": "olajide1987@gmail.com",
             "proImg": "Ola.jpg",
             "funImg": "OlaFun.jpg"
@@ -183,16 +183,16 @@
         },
         {
             "id": 15,
-            "firstName": "Ponch",
+            "firstName": "Phonesalo",
             "lastName": "Sihanorak",
-            "reelThemIn": "I should tell Brooke what to write here.",
-            "bio": "Here too",
+            "reelThemIn": "Always a great way to meet a new person.",
+            "bio": "Born in Thailand and came to the US a year old. Raised in Northeast Tennessee. Graduated with a Bachelors of Science from East Tennessee State University. I'm currently studying as a Full Stack Web Developer @ NSS.",
             "github": "https://github.com/psihanorak",
             "linkedIn": "https://www.linkedin.com/in/phonesalo-sihanorak/",
             "portfolio": "",
             "email": "psihanorak@gmail.com",
-            "proImg": "PH.png",
-            "funImg": "PHFun.jpeg"
+            "proImg": "Ponch.jpg",
+            "funImg": "PonchFun.jpg"
         },
         {
             "id": 16,
